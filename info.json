@@ -1,0 +1,9 @@
+{
+  "name": "marathon",
+  "version": "0.5.1",
+  "title": "Marathon Mod",
+  "author": "Benoit Girard",
+  "homepage": " ",
+  "description": "Increases the resource costs of most recipes causing a marathon game. The will require the players to scale a larger factory and use rail to reach the end game.",
+  "dependencies": []
+}
