@@ -1,0 +1,12 @@
+0.5.3 - Afforess
+
+Changes:
+    - BALANCE: Copper plate smelting time reduced by 10% over previous value (7MJ -> 6.33MJ)
+    - BALANCE: Copper plates required to create science pack 1 increased from 30 to 40
+    - UPDATE:  Factorio 0.12 supported.
+
+===========
+0.5.2 - Afforess
+
+Changes:
+    - BUGFIX: Pipe now stacks to 100, so it can serve as an input to assembling-machine for steam engines

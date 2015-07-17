@@ -38,18 +38,17 @@
 --d  Copper is too slow to craft
 
 
--- demo-recipe
 data:extend(
 {
   {
     type = "recipe",
     name = "copper-plate",
     category = "smelting",
-    energy_required = 7,
+    energy_required = 6.33,
     ingredients = {{ "copper-ore", 1}},
     result = "copper-plate",
     result_count = 5
-  },  
+  },
   {
     type = "recipe",
     name = "iron-plate",
