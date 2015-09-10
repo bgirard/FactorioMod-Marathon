@@ -24,6 +24,8 @@ Mod compatibility
 =================
 This mod has not been tested with any other mod. If it works the balance will likely be completely off thus it's not suggested.
 
+However in general many users claim that this works well with RSO but it further increases the length and difficulty of the game.
+
 Contributing
 ============
 Contributions are welcomed. The aim of this mod is to not change recipes at the moment so I'd suggest forking this repo if you'd like to explore that.
